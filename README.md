@@ -1,4 +1,5 @@
 <img src="./images/graphical_abstract.jpg">
+
 # Comparison of the coverage of the USPTO’s PatentsView and the EPO’s PATSTAT patent databases: a reproducibility case study of the USPTO General Patent Statistics Reports
 
 [Mpho Mafata](https://orcid.org/0000-0002-6468-7193) 1,2*, [Ian D. van der Linde](https://orcid.org/0000-0001-9232-9599) 1 [Jos J. Winnink](https://orcid.org/0000-0002-9115-6419) 3, and [Robert J.W. Tijssen](https://orcid.org/0000-0001-5237-9583) 2,3
