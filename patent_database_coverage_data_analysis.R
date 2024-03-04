@@ -511,13 +511,13 @@
       "Republic of Congo" #this must change to DRC
     patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "Bosnia & Herzegovina"] <-
       "bosnia and herzegovina"
-    patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "united states"] <-
+    patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "United States"] <-
       "usa"
     patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "eswatini"] <-
       "swaziland"
     patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "côte d’ivoire"] <-
       "ivory coast"
-    patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "united kingdom"] <-
+    patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "United Kingdom"] <-
       "uk"
     patstat_geographic_coverage$country_full_name[patstat_geographic_coverage$country_full_name == "czechia"] <-
       "czech republic"
